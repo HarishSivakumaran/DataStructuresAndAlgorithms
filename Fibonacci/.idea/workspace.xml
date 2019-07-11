@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5b661e-f7d2-4bb9-9395-6bae37c2dce0" name="Default Changelist" comment="" />
+    <list default="true" id="6e6b38e7-2c3a-4a94-8554-b57c5110ede6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlicesRanking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlicesRanking/src/AlicesRanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BirdsMigration/src/BirdsMigration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BirthdayChoc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BirthdayChoc/src/BirthdayChoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarFuelFilling/src/CarFuelFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DukeWeek2/src/DukeWeek2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraLongFactorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraLongFactorial/src/ExtraLongFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicMatrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicMatrix/src/MagicMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumPairWiseProduct/src/MaxProd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NonDivisibleSubset/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NonDivisibleSubset/src/NonDivisibleSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj08/src/Proj08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj10/src/Proj10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj11/src/BasketBallrecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueensAttack2/src/QueensAttack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SumOfArray/src/SumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proj05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proj05/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Proj05.java">
+        <entry file="file://$PROJECT_DIR$/src/NthFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,7 +67,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Proj05.java" />
+        <option value="$PROJECT_DIR$/src/NthFibonacci.java" />
       </list>
     </option>
   </component>
@@ -56,8 +81,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="692" />
+    <option name="width" value="1342" />
+    <option name="height" value="698" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -65,14 +90,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Proj05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proj05" type="462c0819:PsiDirectoryNode" />
+              <item name="Fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fibonacci" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,7 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,16 +122,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Proj05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Proj05" />
-      <module name="Proj05" />
+    <configuration name="NthFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NthFibonacci" />
+      <module name="Fibonacci" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Proj05" />
+        <item itemvalue="Application.NthFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -115,17 +140,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf5b661e-f7d2-4bb9-9395-6bae37c2dce0" name="Default Changelist" comment="" />
-      <created>1557725465779</created>
+      <changelist id="6e6b38e7-2c3a-4a94-8554-b57c5110ede6" name="Default Changelist" comment="" />
+      <created>1562025505471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557725465779</updated>
+      <updated>1562025505471</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -136,30 +169,33 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40397352" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294702" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294702" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Proj05.java">
+    <entry file="file://$PROJECT_DIR$/src/NthFibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
