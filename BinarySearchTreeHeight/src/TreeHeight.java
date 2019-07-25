@@ -20,7 +20,6 @@ public class TreeHeight {
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<TreeNode> arrTreeNode = new ArrayList<>();
-        TreeNode root;
         int rootIndex = 0;
         int noOfNodes = Integer.parseInt(bufferedReader.readLine());
         int[] parentNode = Arrays.stream(bufferedReader.readLine().replaceAll("\\s+", " ").split(" ")).mapToInt(Integer::parseInt).toArray();
@@ -31,7 +30,6 @@ public class TreeHeight {
 
         for (int i = 0; i < parentNode.length; i++) {
             if (parentNode[i] == -1) {
-                root = arrTreeNode.get(i);
                 rootIndex = i;
             } else {
                 arrTreeNode.get(parentNode[i]).childTreeNodes.add(arrTreeNode.get(i));
@@ -59,7 +57,7 @@ public class TreeHeight {
             long height = 1 + maxHeight(node);
             if (height > max) {
                 max = height;
-                System.out.println(max);
+               // System.out.println(max);
             }
         }
         return max;
