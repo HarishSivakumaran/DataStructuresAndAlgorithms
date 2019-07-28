@@ -8,7 +8,6 @@ public class MaxNonRepeatingSubString {
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String[] str = bufferedReader.readLine().split("");
-
         System.out.println(findMaxsubstringLen(str));
 
     }
@@ -29,8 +28,8 @@ public class MaxNonRepeatingSubString {
                 if (length > maxLength) {
                     maxLength = length;
                 }
-                startIndex = charLastSeen.get(strArr[i])+1;
-                charLastSeen.put(strArr[i],i);
+                startIndex = charLastSeen.get(strArr[i]) + 1;
+                charLastSeen.put(strArr[i], i);
             }
         }
 
