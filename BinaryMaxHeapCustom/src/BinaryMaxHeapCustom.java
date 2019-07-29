@@ -14,7 +14,6 @@ public class BinaryMaxHeapCustom {
 
         int[] arr = Arrays.stream(bufferedReader.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-
     }
 
     public static class BinaryHeap {
@@ -85,6 +84,7 @@ public class BinaryMaxHeapCustom {
 
         public int extractMax(int[] arr){
             swap(arr,0,arr.length-1);
+            return 0;
           //  Collections.reverseOrder();
 
         }
