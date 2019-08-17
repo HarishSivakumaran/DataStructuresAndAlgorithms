@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="306a7ab3-6e0d-45c7-a449-63263d81af34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashQ1/src/HashQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashQ2/src/HashQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pipe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pipe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QuickSort/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuickSort/src/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AVLTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AVLTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+            <state relative-caret-position="500">
+              <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -90,6 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -154,8 +151,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/AVLTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        <state relative-caret-position="500">
+          <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
         </state>
       </provider>
     </entry>
