@@ -42,9 +42,11 @@ public class QuickSort {
         for (j = low; j < high; j++) {
             if (array[j] < pivot) {
                 i++;
+                if(i!=j){
                 int temp = array[j];
                 array[j] = array[i];
                 array[i] = temp;
+                }
             }
         }
 
