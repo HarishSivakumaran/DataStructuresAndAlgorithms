@@ -31,7 +31,7 @@ public class JobQueue {
                 return o1.threadNo - o2.threadNo;
             }
 
-            return (int) (o1.nextFreeSlot - o2.nextFreeSlot);
+            return (int) (o1.nextFreeSlot - o2.nextFreeSlot);  //just a fallback case
         }
 
     }
