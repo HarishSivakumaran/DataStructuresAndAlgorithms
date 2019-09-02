@@ -1,4 +1,4 @@
-import java.io.BufferedReader;
+// java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
@@ -21,7 +21,7 @@ public class BinaryTreeQ1 {
     public static void createTree(Node node,int[][] allNodes,Node[] allNodeArr) {
 
        for(int i=0; i<allNodeArr.length;i++){
-           
+
        }
 
     }
